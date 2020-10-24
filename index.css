@@ -1,0 +1,115 @@
+/* Put your style information here! */
+body{
+    margin: 0;
+    font-family: Cinzel Decorative;
+    color: #222;
+    
+}
+
+.navbar{
+    padding: .8rem;
+    font-size: large;
+}
+
+.navbar-nav li{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.logo{
+    height: 20%;
+    width: 20%;
+}
+
+.banner{
+    
+}
+
+
+.banner-btn{
+    text-decoration-color: darkgreen;
+    font-family: sofia;
+    color: darkorange;
+    font-size: large;
+
+}
+
+.banner-btn.btn:focus{
+    box-shadow: none;
+
+}
+
+.hours{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    text-align: center;
+    background-color:white;
+    min-height: auto;
+    min-width: auto;
+    margin-top: 50px;
+    /* margin: 20px;
+    padding: 10px; */
+}
+
+
+.carousel-item{
+    max-height: 400px;
+    max-width: 100%;
+}
+
+img{
+    opacity: 80%;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.car-container{
+    max-height: 450px;
+}
+
+.car-div{
+    width: 100%;
+}
+
+.carousel-caption {   
+    position: absolute;
+    top: 50%;
+    transform: translateY(-80%);  
+
+} 
+
+.carousel-caption h2{
+    font-family: cursive;
+    text-shadow: 1px 1px 1px #000;
+    
+}
+
+.carousel-caption .btn-primary {
+    color: #fff;
+    background-color:#222;
+    border-color:darkorange;
+}
+
+.carousel-item img{
+    max-height: 400px;
+    width: 100%;
+    justify-content: center;
+    text-align: center ;
+    background-size: cover;
+}
+
+.connect{
+   margin: 20px;
+
+}
+
+.social{
+    padding: 3rem;
+}
+
+.footer{
+    font-family: sans-serif;
+}
+
